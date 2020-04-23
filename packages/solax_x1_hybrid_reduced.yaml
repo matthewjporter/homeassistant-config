@@ -110,7 +110,7 @@ sensor:
       unit_of_measurement: A
       register: 21
       register_type: input
-      scale: 0.1
+      scale: 0.01
       precision: 1
 # Minus Number Discharging, Positive Number Charging
     - name: Solax Battery Power
